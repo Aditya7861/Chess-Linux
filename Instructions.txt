@@ -29,7 +29,7 @@ The same goes with all other pieces.
 
 If the coordinate matches with the rules of chess, the piece will move or else it will not.
 
-
+If you wish to perform castling, give "CASTLING" as input and then the position of the rook!
 
 At any point during the game if any player wants to surrender, he can give 'surrender' as input,
 
